@@ -1,0 +1,10 @@
+Seed 1: Exponential PathCost: 533.44821 Uncovered: 71645 TimeTaken: 490
+        Dijkstra PathCost: 533.44821 Uncovered: 226916 TimeTaken: 2180
+Seed 2: Exponential PathCost: 549.50363 Uncovered: 81880 TimeTaken: 535
+	Dijkstra PathCost: 549.50363 Uncovered: 237620 TimeTaken: 2209
+Seed 3: Exponential PathCost: 510.97825 Uncovered: 73967 TimeTaken: 484
+	Dijkstra PathCost: 510.97825 Uncovered: 228705 TimeTaken: 2131
+Seed 4: Exponential PathCost: 560.65704 Uncovered: 66361 TimeTaken: 436
+	Dijkstra PathCost: 560.65704 Uncovered: 216096 TimeTaken: 2030
+Seed 5: Exponential PathCost: 479.58792 Uncovered: 67717 TimeTaken: 427
+	Dijkstra PathCost: 479.58792 Unco\vered: 220673 TimeTaken: 1986

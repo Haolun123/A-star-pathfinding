@@ -1,0 +1,10 @@
+Seed 1: Division PathCost: 198.59165 Uncovered: 35590 TimeTaken: 190
+        Dijkstra PathCost: 198.59165 Uncovered: 162340 TimeTaken: 750
+Seed 2: Division PathCost: 198.56141 Uncovered: 35572 TimeTaken: 181
+	Dijkstra PathCost: 198.56141 Uncovered: 162364 TimeTaken: 751
+Seed 3: Division PathCost: 198.48643 Uncovered: 35570 TimeTaken: 190
+	Dijkstra PathCost: 198.48643 Uncovered: 162247 TimeTaken: 790
+Seed 4: Division PathCost: 198.70066 Uncovered: 35588 TimeTaken: 189
+	Dijkstra PathCost: 198.70066 Uncovered: 162263 TimeTaken: 746
+Seed 5: Division PathCost: 198.25499 Uncovered: 35567 TimeTaken: 185
+	Dijkstra PathCost: 198.25499 Uncovered: 161946 TimeTaken: 745
